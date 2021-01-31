@@ -18,7 +18,7 @@ Also, Mogo strong believes that we are in the early stages of the transition fro
 
 Mogo focus its platform, objective-built to deliver the best in the market digital experience. Today the company has more than one million members and a marketing partnership with Canada's largest news media company, Mogo’s mission is to execute on its vision to gamify financial health and become the go-to financial app for the next generation of Canadians.
 
-# Why it is spe
+# Why It Is Special
 
 * Mogo innovative marketing collaborative agreement with Postmedia, Canadian news media company, until 2023.
 

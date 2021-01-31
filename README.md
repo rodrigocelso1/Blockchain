@@ -26,13 +26,13 @@ Your mission, should you choose to accept it, will be to set up a testnet blockc
 To do this, you will create and submit four deliverables:
 
 
-Set up your custom testnet blockchain.
+* Set up your custom testnet blockchain.
 
 
-Send a test transaction.
+* Send a test transaction.
 
 
-Create a repository.
+* Create a repository.
 
 
-Write instructions on how to use the chain for the rest of your team.
+* Write instructions on how to use the chain for the rest of your team.
