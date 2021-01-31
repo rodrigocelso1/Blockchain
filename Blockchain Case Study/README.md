@@ -28,14 +28,16 @@ Mogo focus its platform, objective-built to deliver the best in the market digit
 
 # Resources
 
-https://investors.mogo.ca/
+[Overview](https://investors.mogo.ca/)
 
-https://investors.mogo.ca/press-releases/mogo-now-helping-over-1-1-million-canadians-improve-their-financial-health 
+[Press Release January/2021](https://investors.mogo.ca/press-releases/mogo-now-helping-over-1-1-million-canadians-improve-their-financial-health) 
 
-https://investors.mogo.ca/press-releases/mogo-extends-innovative-marketing-agreement-with-postmedia-to-2023 
+[Marketing Agreement with Postmedia](https://investors.mogo.ca/press-releases/mogo-extends-innovative-marketing-agreement-with-postmedia-to-2023)
 
-https://www.mogo.ca/mogo-crypto 
+[Mogo-Crypto](https://www.mogo.ca/mogo-crypto) 
 
-*Referral*
+---
 
-*https://app.mogo.ca/e/ACdAEoIC19?referral_code=DHKBYEWK*
+*[Referral](https://app.mogo.ca/e/ACdAEoIC19?referral_code=DHKBYEWK)*
+
+![Logo](Images/mogobitcoin.jpg)
