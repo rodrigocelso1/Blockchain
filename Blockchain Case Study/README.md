@@ -39,5 +39,3 @@ https://www.mogo.ca/mogo-crypto
 *Referral*
 
 *https://app.mogo.ca/e/ACdAEoIC19?referral_code=DHKBYEWK*
-
-![Logo](Images/mogobitcoin.jpg)
