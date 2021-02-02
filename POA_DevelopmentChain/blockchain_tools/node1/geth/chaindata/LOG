@@ -1,0 +1,32 @@
+=============== Feb 1, 2021 (EST) ===============
+21:25:47.256691 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:25:47.260684 db@open opening
+21:25:47.262676 version@stat F·[] S·0B[] Sc·[]
+21:25:47.264380 db@janitor F·2 G·0
+21:25:47.264380 db@open done T·3.6968ms
+21:25:47.271361 db@close closing
+21:25:47.276349 db@close done T·4.9878ms
+=============== Feb 1, 2021 (EST) ===============
+21:27:54.834786 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:27:54.835784 version@stat F·[] S·0B[] Sc·[]
+21:27:54.835784 db@open opening
+21:27:54.835784 journal@recovery F·1
+21:27:54.842764 journal@recovery recovering @1
+21:27:54.851741 memdb@flush created L0@2 N·15 S·1KiB "Hz;..Ƞ\xed,v8":"\x8fg\xf0..,}y,v5"
+21:27:54.857725 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+21:27:54.863710 db@janitor F·3 G·0
+21:27:54.863710 db@open done T·27.9261ms
+22:08:39.618374 db@close closing
+22:08:39.624363 db@close done T·5.9888ms
+=============== Feb 2, 2021 (EST) ===============
+15:46:18.889574 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:46:18.896556 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+15:46:18.897553 db@open opening
+15:46:18.897553 journal@recovery F·1
+15:46:18.902540 journal@recovery recovering @3
+15:46:18.912513 memdb@flush created L0@5 N·12 S·941B "Dat..ion,v17":"r\x00\x00..\nL\xa4,v23"
+15:46:18.918497 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+15:46:18.928470 db@janitor F·4 G·0
+15:46:18.928470 db@open done T·30.9167ms
+15:51:00.099027 db@close closing
+15:51:00.108003 db@close done T·8.976ms
