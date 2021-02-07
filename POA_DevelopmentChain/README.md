@@ -33,7 +33,7 @@ Next, generate your genesis block, to do it follow the steps:
 
 * Specify your network ID -> **333**
 
-* When you are back at the main menu, Select the option 2 -> **"Manage existing genesis"**.
+* When you are back at the main menu, Select the option 2 -> **Manage existing genesis**.
 
 * Select the option 2 -> **Export genesis configurations**. This will fail to create two of the files, but you only need networkname.json.
 
