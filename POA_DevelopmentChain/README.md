@@ -2,6 +2,12 @@
 
 The PoA algorithm is typically used for private blockchain networks as it requires pre-approval of the account addresses that can approve transactions (seal blocks).
 
+Before we start, you need to download Geth tool. It's the platform that allows you to run Ethereum Blockchain.
+
+Be sure to get the correct version ***Geth % Tools 1.9.25 (64-bit)***
+
+[Download Geth](https://geth.ethereum.org/downloads/)
+
 Because the accounts must be approved, we first need to generate two new nodes with new account addresses that will serve as our pre-approved sealer addresses.
 
 Create accounts for two nodes for the network with a separate datadir for each using geth, as bellow:
